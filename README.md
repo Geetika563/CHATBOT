@@ -1,4 +1,8 @@
 # CHATBOT
+
+![Description of the image]("C:\Users\asus\Downloads\my_chatbot\MENU-BASED-CHAT-BOT-FOR-E-BIKES-COMPANY\chatbot_box.png")
+
+
 # Overview
 This project is a menu-based chatbot designed to offer seamless customer service for an electric vehicle (EV) company. Leveraging web technologies such as HTML, CSS, JavaScript, PHP, and the WAMP server, this chatbot provides an interactive and user-friendly platform for customers to access information, receive support, and engage with the company's EV products and services.
 
